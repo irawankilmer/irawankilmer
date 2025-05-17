@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Irawan 👋
 
-<!--
-**irawankilmer/irawankilmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(also known as *irawan kilmer*)
 
-Here are some ideas to get you started:
+I'm a web developer who loves building and exploring backend technologies.
+My main stack includes:
+🚀 PHP (Native & Laravel)
+⚙️ JavaScript (Node.js, React.js, Next.js)
+🌐 HTML & CSS
+🧭 Go (Golang)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy writing clean, maintainable code and continuously learning new things in web development.
+Thanks for stopping by!
