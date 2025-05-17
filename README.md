@@ -8,6 +8,7 @@ My main stack includes:
 - ⚙️ JavaScript (Node.js, React.js, Next.js)
 - 🌐 HTML & CSS
 - 🧭 Go (Golang)
+- 💬 SQL
 
 I enjoy writing clean, maintainable code and continuously learning new things in web development.
 Thanks for stopping by!
